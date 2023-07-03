@@ -1,0 +1,64 @@
+logs_report
+*2019-05-02 04:56:20.663925
+name 'Polarity' is not defined
+*2019-05-02 05:21:10.566877
+
+    Error 275 for command:
+        open "Voice/Status9.mp3" alias playsound_0.07828392441481957
+    Cannot find the specified file.  Make sure the path and filename are correct.
+*2019-05-02 17:29:19.089451
+'in <string>' requires string as left operand, not list
+*2019-05-02 17:29:33.206108
+'in <string>' requires string as left operand, not list
+*2019-05-02 17:38:13.449005
+'in <string>' requires string as left operand, not list
+*2019-05-02 17:38:31.943940
+'in <string>' requires string as left operand, not list
+*2019-05-02 17:45:43.031305
+[Errno -9988] Stream closed
+*2019-05-02 17:45:54.925151
+[Errno -9999] Unanticipated host error
+*2019-05-02 17:46:08.100919
+No Default Input Device Available
+*2019-05-02 18:04:46.446586
+listen_in_background() missing 1 required positional argument: 'callback'
+*2019-05-04 22:22:04.587351
+name 'Talking' is not defined
+*2019-05-05 00:10:25.519826
+name 'jacn' is not defined
+*2019-05-05 00:53:55.747817
+
+    Error 275 for command:
+        open "Voice/udosth8.mp3" alias playsound_0.7878465387037643
+    Cannot find the specified file.  Make sure the path and filename are correct.
+*2019-05-05 00:55:43.521841
+name 'formatText' is not defined
+*2019-05-05 01:05:18.992382
+name 'Obj' is not defined
+*2019-05-05 01:08:05.835553
+
+    Error 275 for command:
+        open "Voice/NewFolderName5.mp3" alias playsound_0.4922464207058296
+    Cannot find the specified file.  Make sure the path and filename are correct.
+*2019-05-06 22:28:36.332636
+
+    Error 275 for command:
+        open "Voice/Quote4.mp3" alias playsound_0.12721652328977084
+    Cannot find the specified file.  Make sure the path and filename are correct.
+*2019-05-06 22:29:39.837629
+
+    Error 275 for command:
+        open "Voice/QuotesQuote1.mp3" alias playsound_0.6120778727094318
+    Cannot find the specified file.  Make sure the path and filename are correct.
+*2019-05-08 02:03:47.043490
+write() takes exactly one argument (2 given)
+*2019-05-16 11:25:42.757895
+Could not find PyAudio; check installation
+*2019-07-21 19:13:41.027498
+[Errno -9988] Stream closed
+*2019-07-26 20:12:49.238454
+[Errno -9988] Stream closed
+*2019-07-31 09:43:47.527417
+[Errno -9988] Stream closed
+*2019-08-05 09:52:51.975352
+[Errno -9988] Stream closed

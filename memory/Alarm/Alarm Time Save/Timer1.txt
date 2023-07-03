@@ -1,0 +1,2 @@
+reminder,hour,minute,format
+Exam,12,00,AM
